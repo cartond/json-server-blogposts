@@ -1,3 +1,5 @@
+For use with https://github.com/cartond/react-native-CRUD-automatic-context
+
 `npm install`
 
 `npm run db`
